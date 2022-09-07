@@ -1,4 +1,3 @@
-# IdealTrajectory
 * 弹簧刀巡飞弹/无人机末制导三自由度理想弹道 
 * Three degree of freedom trajectory simulation of cruise missile
 * Date:2022.08.26
